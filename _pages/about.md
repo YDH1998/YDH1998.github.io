@@ -22,12 +22,14 @@ redirect_from:
 My research interest includes Computer Aided/AI Drug Design. I have published more than 2 papers at the top international Medicinal Chemistry journals.
 
 # 🔥 News
+
 <！--
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
   
 # 📝 Publications 
+
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -45,6 +47,7 @@ My research interest includes Computer Aided/AI Drug Design. I have published mo
 -->
 
 # 🎖 Honors and Awards
+
 <!--
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -56,8 +59,14 @@ My research interest includes Computer Aided/AI Drug Design. I have published mo
 - *2017.09 - 2021.06*, School of Chemistry and Chemical Engineering, Central South University. 
 
 # 💬 Invited Talks
+
+<!--
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
+
+<!--
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
